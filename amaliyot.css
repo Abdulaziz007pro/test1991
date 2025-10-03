@@ -1,0 +1,43 @@
+h1{
+    color: yellow;
+    text-align: center;
+}
+form{
+    background-color: rgb(0, 0, 61);
+}
+.aa{
+    color: rgb(8, 255, 8);
+}
+p{
+    text-align: center;
+    color: white;
+}
+img{
+    height: 250px;
+}
+iframe{
+    height: 200px;
+}
+table{
+    border-color: yellow;
+    color: white;
+    text-align: center;
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td{
+    border: 2px solid yellow;
+}
+input{
+    width: 100%;
+    border-radius: 29px;
+}
+button{
+    background-color: yellow;
+    border-radius: 20px;
+    width: 30%;
+
+}
+form{
+    text-align: center;
+}
